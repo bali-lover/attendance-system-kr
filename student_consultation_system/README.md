@@ -1,1 +1,0 @@
-# student_consultation_system
